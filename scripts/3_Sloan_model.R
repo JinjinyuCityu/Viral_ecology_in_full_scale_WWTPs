@@ -1,4 +1,4 @@
-# This part of script was modified from a published research as below:
+scripts/# This part of script was modified from a published research as below:
 # https://www.nature.com/articles/ismej2015142 {Burns et al.} (2016)
 if (!requireNamespace("minpack.lm", quietly=TRUE))
   install.packages("minpack.lm")
