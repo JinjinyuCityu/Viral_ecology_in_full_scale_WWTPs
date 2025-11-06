@@ -11,6 +11,7 @@ The modelling code lives in the **`scripts/`** folder. Each script can be run in
 - R (≥ 4.4 recommended): https://www.r-project.org/
 
 **Instruction to Use**
+
 1_SAD_modelling.R -> Species–abundance distribution modelling 
 
 2_Power_law.R -> Fit/diagnose power-law scaling
